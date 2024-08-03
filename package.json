@@ -1,0 +1,25 @@
+{
+  "name": "react_myself1",
+  "version": "1.0.0",
+  "description": "Practise myself",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shansha89/React_Myself1.git"
+  },
+  "keywords": [
+    "karthick"
+  ],
+  "author": "karthick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shansha89/React_Myself1/issues"
+  },
+  "homepage": "https://github.com/shansha89/React_Myself1#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
